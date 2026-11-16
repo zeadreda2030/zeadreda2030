@@ -22,7 +22,7 @@
 -  **Role:** Communication & Electronics Engineer
 -  **Focus:** IoT · Embedded Systems · Computer Networking · Hardware & Software Integration · Flutter Development
 -  **Languages:** Python · C++ · Dart
--  **Interests:** Smart Systems 🔌 · Automation 🤖 · Wireless Communication 📡 · Problem Solving 🧠 · Continuous Learning 🚀
+-  **Interests:** Smart Systems  · Automation  · Wireless Communication  · Problem Solving  · Continuous Learning 
 
 > *Turning engineering ideas into real-world solutions.*
 
@@ -84,12 +84,12 @@ I enjoy working with microcontrollers, sensors, networking technologies, and IoT
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| 🚗 Car Parking Assistant | Smart parking system detecting car availability with real-time visualization. | Arduino · Ultrasonic Sensors |
-| ⚡ Smart Energy Consumption | Automated lighting control to optimize energy usage and reduce waste. | Python · Sensors |
-| 🚘 Gesture-Controlled Car | Wireless car controlled through hand gestures. | Arduino Nano · MPU6050 · HC-05 |
-| 🤖 Self-Balancing System | Real-time balancing system using PID control. | Arduino · MPU6050 · PID |
-| 💡 ESP32 Smart LED Control | Remote LED control with automatic and manual modes using MQTT. | ESP32 · MQTT · Python |
-| 🌡️ Temperature Monitoring System | Real-time temperature monitoring, alerts, and remote LED control. | Arduino · Wi-Fi · IoT |
+|  Car Parking Assistant | Smart parking system detecting car availability with real-time visualization. | Arduino · Ultrasonic Sensors |
+|  Smart Energy Consumption | Automated lighting control to optimize energy usage and reduce waste. | Python · Sensors |
+|  Gesture-Controlled Car | Wireless car controlled through hand gestures. | Arduino Nano · MPU6050 · HC-05 |
+|  Self-Balancing System | Real-time balancing system using PID control. | Arduino · MPU6050 · PID |
+|  ESP32 Smart LED Control | Remote LED control with automatic and manual modes using MQTT. | ESP32 · MQTT · Python |
+|  Temperature Monitoring System | Real-time temperature monitoring, alerts, and remote LED control. | Arduino · Wi-Fi · IoT |
 
 ###  Mobile Development
 
@@ -100,26 +100,6 @@ I enjoy working with microcontrollers, sensors, networking technologies, and IoT
 - Implemented Firebase Authentication.
 - Used Hive for local storage and offline support.
 - Managed application state using Cubit (flutter_bloc).
-
----
-
-##  Education
-
-**Canadian International College (CIC)**
-
-Bachelor's Degree in Communication and Electronics Engineering.
-
----
-
-##  Certifications & Training
-
-- Cisco CCNAv7 Training – NTI Egypt (120 Hours) | 100% Final Score
-- Internet of Things (IoT) Applications – NTI Egypt (120 Hours) | 86% Final Score
-- CCNA Training Program – Pixels Egypt
-- IoT Development – Udemy
-- Python Programming – Sprints.ai
-- Getting Started with Deep Learning – NVIDIA
-- IoT Fundamentals & Applications – Creativa Innovation Hub
 
 ---
 
@@ -143,15 +123,5 @@ Bachelor's Degree in Communication and Electronics Engineering.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zead%20Reda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zead-reda-46a63b375)
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeadreda2004@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0077B6&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-**"Engineering ideas. Connecting technologies. Building the future."** 
 
 </div>
