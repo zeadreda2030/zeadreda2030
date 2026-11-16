@@ -16,22 +16,6 @@
 
 ---
 
-## About Me
-
--  **Name:** Zead Reda Abdallah
--  **Role:** Communication & Electronics Engineer
--  **Focus:** IoT · Embedded Systems · Computer Networking · Hardware & Software Integration · Flutter Development
--  **Languages:** Python · C++ · Dart
--  **Interests:** Smart Systems  · Automation  · Wireless Communication  · Problem Solving  · Continuous Learning 
-
-> *Turning engineering ideas into real-world solutions.*
-
-I'm a Communication and Electronics Engineering student passionate about building smart systems that connect hardware and software.
-
-I enjoy working with microcontrollers, sensors, networking technologies, and IoT applications, while also exploring mobile development and software engineering.
-
----
-
 ##  Tech Stack & Skills
 
 <div align="center">
@@ -75,31 +59,6 @@ I enjoy working with microcontrollers, sensors, networking technologies, and IoT
 ![Automation](https://img.shields.io/badge/Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
-
----
-
-##  Featured Projects
-
-### 🔌 IoT & Embedded Systems
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-|  Car Parking Assistant | Smart parking system detecting car availability with real-time visualization. | Arduino · Ultrasonic Sensors |
-|  Smart Energy Consumption | Automated lighting control to optimize energy usage and reduce waste. | Python · Sensors |
-|  Gesture-Controlled Car | Wireless car controlled through hand gestures. | Arduino Nano · MPU6050 · HC-05 |
-|  Self-Balancing System | Real-time balancing system using PID control. | Arduino · MPU6050 · PID |
-|  ESP32 Smart LED Control | Remote LED control with automatic and manual modes using MQTT. | ESP32 · MQTT · Python |
-|  Temperature Monitoring System | Real-time temperature monitoring, alerts, and remote LED control. | Arduino · Wi-Fi · IoT |
-
-###  Mobile Development
-
-**Fitness App | Flutter**
-
-- Developed a multi-screen fitness application with scalable architecture.
-- Integrated REST APIs for real-time fitness data.
-- Implemented Firebase Authentication.
-- Used Hive for local storage and offline support.
-- Managed application state using Cubit (flutter_bloc).
 
 ---
 
