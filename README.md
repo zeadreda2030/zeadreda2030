@@ -1,4 +1,4 @@
-# 👨‍💻 Zead Reda Abdallah
+#  Zead Reda Abdallah
 
 <div align="center">
 
@@ -16,13 +16,13 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 👨‍💻 **Name:** Zead Reda Abdallah
-- 🎓 **Role:** Communication & Electronics Engineer
-- 🎯 **Focus:** IoT · Embedded Systems · Computer Networking · Hardware & Software Integration · Flutter Development
-- 💻 **Languages:** Python · C++ · Dart
-- ❤️ **Interests:** Smart Systems 🔌 · Automation 🤖 · Wireless Communication 📡 · Problem Solving 🧠 · Continuous Learning 🚀
+-  **Name:** Zead Reda Abdallah
+-  **Role:** Communication & Electronics Engineer
+-  **Focus:** IoT · Embedded Systems · Computer Networking · Hardware & Software Integration · Flutter Development
+-  **Languages:** Python · C++ · Dart
+-  **Interests:** Smart Systems 🔌 · Automation 🤖 · Wireless Communication 📡 · Problem Solving 🧠 · Continuous Learning 🚀
 
 > *Turning engineering ideas into real-world solutions.*
 
@@ -32,11 +32,11 @@ I enjoy working with microcontrollers, sensors, networking technologies, and IoT
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 <div align="center">
 
-### 🔌 IoT & Embedded Systems
+###  IoT & Embedded Systems
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
@@ -44,13 +44,13 @@ I enjoy working with microcontrollers, sensors, networking technologies, and IoT
 ![Wokwi](https://img.shields.io/badge/Wokwi-00A5E5?style=for-the-badge)
 ![Matlab](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-### 💻 Programming Languages
+###  Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 🌐 Networking & Communication
+###  Networking & Communication
 
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-0077B5?style=for-the-badge)
@@ -58,7 +58,7 @@ I enjoy working with microcontrollers, sensors, networking technologies, and IoT
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge)
 ![IPv6](https://img.shields.io/badge/IPv6-0078D4?style=for-the-badge)
 
-### 📱 Mobile Development
+###  Mobile Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -66,7 +66,7 @@ I enjoy working with microcontrollers, sensors, networking technologies, and IoT
 ![BLoC](https://img.shields.io/badge/BLoC-764ABC?style=for-the-badge&logo=flutter&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
 
-### 🧰 Tools & Technologies
+###  Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -78,7 +78,7 @@ I enjoy working with microcontrollers, sensors, networking technologies, and IoT
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🔌 IoT & Embedded Systems
 
@@ -91,7 +91,7 @@ I enjoy working with microcontrollers, sensors, networking technologies, and IoT
 | 💡 ESP32 Smart LED Control | Remote LED control with automatic and manual modes using MQTT. | ESP32 · MQTT · Python |
 | 🌡️ Temperature Monitoring System | Real-time temperature monitoring, alerts, and remote LED control. | Arduino · Wi-Fi · IoT |
 
-### 📱 Mobile Development
+###  Mobile Development
 
 **Fitness App | Flutter**
 
@@ -103,7 +103,7 @@ I enjoy working with microcontrollers, sensors, networking technologies, and IoT
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Canadian International College (CIC)**
 
@@ -111,7 +111,7 @@ Bachelor's Degree in Communication and Electronics Engineering.
 
 ---
 
-## 🏅 Certifications & Training
+##  Certifications & Training
 
 - Cisco CCNAv7 Training – NTI Egypt (120 Hours) | 100% Final Score
 - Internet of Things (IoT) Applications – NTI Egypt (120 Hours) | 86% Final Score
@@ -136,7 +136,7 @@ Bachelor's Degree in Communication and Electronics Engineering.
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -152,6 +152,6 @@ Bachelor's Degree in Communication and Electronics Engineering.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0077B6&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-**"Engineering ideas. Connecting technologies. Building the future."** 🚀
+**"Engineering ideas. Connecting technologies. Building the future."** 
 
 </div>
